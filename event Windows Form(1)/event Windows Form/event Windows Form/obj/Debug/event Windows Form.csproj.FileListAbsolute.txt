@@ -1,0 +1,20 @@
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\bin\Debug\event Windows Form.exe.config
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\bin\Debug\event Windows Form.exe
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\bin\Debug\event Windows Form.pdb
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event Windows Form.csprojResolveAssemblyReference.cache
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event_Windows_Form.Form1.resources
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event_Windows_Form.Properties.Resources.resources
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event Windows Form.csproj.GenerateResource.Cache
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event Windows Form.exe
+C:\Users\LabUser28\Desktop\Artak Sev\event Windows Form\event Windows Form\obj\Debug\event Windows Form.pdb
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\bin\Debug\event Windows Form.exe.config
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\bin\Debug\event Windows Form.exe
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\bin\Debug\event Windows Form.pdb
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event Windows Form.csprojAssemblyReference.cache
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event_Windows_Form.Form1.resources
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event_Windows_Form.Properties.Resources.resources
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event Windows Form.csproj.GenerateResource.cache
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event Windows Form.exe
+C:\Users\Dell User\Desktop\event Windows Form(1)\event Windows Form\event Windows Form\obj\Debug\event Windows Form.pdb
